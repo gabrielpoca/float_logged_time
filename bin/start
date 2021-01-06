@@ -1,0 +1,3 @@
+#!/bin/bash
+
+deno run --allow-env --allow-net --lock=lock.json index.ts
